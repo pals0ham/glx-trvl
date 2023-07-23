@@ -10,7 +10,7 @@ const Video = () => {
         <source src={spaceVideo} type="video/mp4" />
       </video>
       <div className="content">
-        <h1>Galaxy. Travel.</h1>
+        <h1>Galaxy Travel.</h1>
         <p>World's first civilian space travel</p>
         <div>
           <Link to="/training" className="btn">
